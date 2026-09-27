@@ -1,4 +1,4 @@
-"""IQ TEST -- USING PYTHON CODE"""
+"""IQ TEST --- USING PYTHON CODE"""
 
 import time
 import random
